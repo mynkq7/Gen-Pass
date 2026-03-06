@@ -16,3 +16,23 @@ A simple password generator that takes the desired password length from the user
 * `hashlib`
 * `json`
 * `string`
+
+## How to Run
+
+Run the script using Python from the terminal:
+
+```bash
+python Gen-Pass.py
+```
+
+Make sure Python 3 is installed on your system before running the script.
+
+## Example
+
+```
+Enter the desired length of your password: 12
+Generated Password: 8@fD!2kLp#9Q
+
+Do you want to save this password? (yes/no): yes
+Enter a label: Email
+```
